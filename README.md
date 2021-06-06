@@ -1,3 +1,3 @@
-# Strapi application
+# Crypto Monthly Strapi CMS
 
-A quick description of your strapi application
+## Headless CMS to create REST API for our https://cryptomonthly.org/ web app
